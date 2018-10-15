@@ -3,6 +3,16 @@
 
 ## 日记
 
+[2018-10-12](2018/10/12.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出IoU-Net，用来学习来预测每个检测到的边界框与匹配的ground truth 之间的IoU；另一篇提出DetNet，这是一种专门用于物体检测的新型 backbone 网络。
+
+[2018-08-25](2018/08/25.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的弱监督和半监督框架可实现含无限数量标签的语义分割；另一篇提出使用立体匹配网络作为proxy 来从合成数据中学习深度，并使用预测的立体视差图来监督单目深度估计网络。
+
+[2018-08-15](2018/08/15.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新颖的运动变换变分自动编码器（MT-VAE），用于学习运动序列生成；另一篇提出利用FiLM来调节语言上基于图像的卷积网络计算，解决视推理问题。
+
+[2018-08-11](2018/08/11.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的基于Disentangled Representations网络，实现图像到图像转换；另一篇提出新的SPG masks，可有效地生成高质量的目标定位图。
+
+[2018-08-07](2018/08/07.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的网格自动编码的卷积神经网络，用于生成3D人脸；另一篇提出新的RFNet，实现看图说话（image caption）。
+
 [2018-08-03](2018/08/03.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出新的基于卷积神经网络（CNN）的密度估计方法来解决图像中人群计数的问题；另一篇是提出实时立体匹配的端到端深度架构StereoNet，实现了亚像素匹配精度的深度预测。
 
 [2018-07-31](2018/07/31.md): 2篇论文速递，都是ECCV 2018 paper，一篇提出semi-convolutional等创新点来改进Mask RCNN；另一篇是提出CrossNet，一种使用跨尺度变形的端到端和全卷积深度神经网络，实现超分辨率。
@@ -49,8 +59,16 @@
 
 ## 顶刊/顶会
 
-[CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
+**ECCV 2018**
 
-CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+- 2018
+  - [ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
+  - ECCV 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1Mg0Kw9bepUK6_vqqVSOjNQ)   密码: mh97
 
-CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
+**CVPR**
+
+- 2018
+  - [CVPR 2018所有录用论文清单](2018/cvpr2018-paper-list.csv) 
+  - CVPR 2018论文PDF下载：[百度云链接](https://pan.baidu.com/s/1-J_TvahNVxJAsQJwP3WAOw)   密码: 629x
+- 2017
+  - CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
